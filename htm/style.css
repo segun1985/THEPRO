@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.first_img{
+    width: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    
+}
+.ref{
+    margin-left:3em;
+}
+.first_d{
+    text-align: center;
+    margin-top: 2em;
+}
+.port{
+    margin-right: 8em;
+}
+
+.get{
+    background-color:tomato;
+    border:none;
+    padding: 0.5em;
+    color: white;
+    margin-left:9px;
+
+}
+
+.bet{
+
+    color:tomato;
+}
+.second_p{
+    background: rgb(235, 228, 228);
+    margin-top: 3em;
+    padding: 4em;
+    display: flex;
+    padding-top: 0.5em;
+    padding-bottom: 0;
+}
+.every{
+    color: tomato;
+    margin-left: 10em;
+}
+.second_img{
+    width: 350px;
+    margin-left: 20em;
+    margin-top: -17em;
+}
+.designer{
+    color: rgb(3, 3, 34);
+    font: bold 30px times new roman;
+    margin-top: -2em;
+}
+.sit{
+    color: rgb(4, 4, 63);
+}    
+
+.third_p{
+ font: bold 15px times new Roman;
+margin-left: 220px;
+margin-top: 30px;
+display: flex;
+}
+.lorem{
+    font: bold 11px times new Roman;
+    margin-left: 220px;
+    margin-top: 1em;
+}
+.quary{
+    margin-left: 10.5em;
+}
+.let{
+    margin-left: 52em;
+    margin-top: -5em;
+    font-size: 11px;
+}
+.jet{
+    text-decoration: underline;
+    font-weight: bold;
+}
